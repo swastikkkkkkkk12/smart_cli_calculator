@@ -1,4 +1,4 @@
-# Smart_cli_calculator
+# SMART_CLI_CALULATOR
 Created a smart CLI calculator just as a mini project
 
 A simple Smart Command Line Calculator built using Python.  
