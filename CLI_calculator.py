@@ -10,7 +10,7 @@ def calculator():
         print("/  Division")
 
         op = input("Enter operator: ")
-
+# input
         match op:
             case "+":
                 result = a + b
